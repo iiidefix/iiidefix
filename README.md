@@ -1,7 +1,5 @@
 ### Hi there 👋 I’m iiidefix
 
-I’m the owner of iiidefix.net
-
 ```
 ┌─ Welcome to ────────────────────────────────────────┐
 │    _ _ _     _       __ _                   _       │
@@ -14,3 +12,5 @@ I’m the owner of iiidefix.net
 │     the independent intelligent interconnected      │
 └─ distribution environment for information eXchange ─┘
 ```
+
+More self hosted repos: <https://git.iiidefix.net/iiidefix.net>
